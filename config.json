@@ -1,0 +1,5 @@
+{
+    "CANCEL_INTERVAL": 5,
+    "WORKERS": 5,
+    "WORKER_DELAY": 1
+}
